@@ -1,0 +1,15 @@
+C:\Users\я\source\repos\prac7\prac7\bin\Debug\net6.0\prac7.exe
+C:\Users\я\source\repos\prac7\prac7\bin\Debug\net6.0\prac7.deps.json
+C:\Users\я\source\repos\prac7\prac7\bin\Debug\net6.0\prac7.runtimeconfig.json
+C:\Users\я\source\repos\prac7\prac7\bin\Debug\net6.0\prac7.dll
+C:\Users\я\source\repos\prac7\prac7\bin\Debug\net6.0\prac7.pdb
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.AssemblyInfoInputs.cache
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.AssemblyInfo.cs
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.dll
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\refint\prac7.dll
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.pdb
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\prac7.genruntimeconfig.cache
+C:\Users\я\source\repos\prac7\prac7\obj\Debug\net6.0\ref\prac7.dll
